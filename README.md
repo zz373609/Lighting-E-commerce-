@@ -11,3 +11,13 @@ And, do you know what you are going to sell, and do you actully have those produ
 Here is I come idea. I am doing a plateform called Krapher, What I am tring to do is that find product on amazon but also exit in taobao, and auto scrab the product from amazon and send to my store, once someone buy, then I will buy from taobao, and send to amazon. All this stuff can be done by computer. So in the future, What I can do is that , figure out the different price of different palteform, find the lower price one and send to higher price one to sell. What is my Krapher doing.
 
 I am working on this project already, and I have amazon store also. The project doese not have frontend yet, but have some backend functional ready to use. I am using for now. If anyone interested in my idea, you can contact me, I can show you my system and teach you how to doing amazon seller in my way.
+
+![The price in amazon](https://github.com/zz373609/Lighting-E-commerce-/blob/master/WechatIMG37.png)
+
+The price in Amzon is 36.37 ERU
+
+![The price in taobao](https://github.com/zz373609/Lighting-E-commerce-/blob/master/WechatIMG38.png)
+
+The price in taobao is 37.27 CNY
+
+So you see the potential here 37.23 CNY * 10 is almost about 36.37 ERU. You got what I mean ?
